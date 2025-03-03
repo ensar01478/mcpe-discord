@@ -7,9 +7,9 @@
     "Developers": ["Botunuz geliştirici(leri)"]
     },
  "Server" : {
-    "name" : "Sunucunuzun adı",
-    "ip" : "Sunucunuzun ip adresi",
-    "port" : "19132", 
+    "name" : "eamcraft",
+    "ip" : "eamcraft.aternos.me",
+    "port" : "64333", 
     "apikey" : "PocketServer API Keyiniz (oysorgu için)"
     }
 }
